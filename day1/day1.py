@@ -1,0 +1,5 @@
+print("Welcome")
+city_name = input("Enter the city you grow up in ?\n")
+pet_name = input("Enter your pet name: \n")
+print ("Brand name : " + city_name + " " + pet_name)
+print(city_name[0])
