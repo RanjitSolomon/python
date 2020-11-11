@@ -10,3 +10,14 @@ en.wikipedia.org/wiki/Mersenne_Twister
 Khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseduorandom-number-generators
 
 askpython.com
+
+
+haveibeenpwned.com
+
+
+Add 1 to 100
+1 + 2 + 3 + ...  08 + 99 100
+100 + 99 + 98 + ... 3 + 2 + 1
+101  101   101     101 101 101
+50 x 101 = 5050
+
