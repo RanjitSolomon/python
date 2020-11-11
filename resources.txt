@@ -1,0 +1,12 @@
+ASCII
+ascii.co.uk/art
+
+in python start and with three single quotes 
+
+
+Random Numbers
+en.wikipedia.org/wiki/Mersenne_Twister
+
+Khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseduorandom-number-generators
+
+askpython.com
