@@ -21,3 +21,6 @@ Add 1 to 100
 101  101   101     101 101 101
 50 x 101 = 5050
 
+Reborg's world
+reeborg.ca/reeborg.html
+
