@@ -13,3 +13,6 @@ Day 5 - Loops
 Day 6 - Functions and Karel
 
 Day 7 - Hangman
+
+Day 8 - Functions parameters, Caesar Cipher 
+
