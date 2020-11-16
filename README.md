@@ -16,3 +16,5 @@ Day 7 - Hangman
 
 Day 8 - Functions parameters, Caesar Cipher 
 
+Day 9 - Dictionary, Silent Auction
+
