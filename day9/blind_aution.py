@@ -1,11 +1,11 @@
-#from replit import clear
-import art
 from clear_sys import clear
+from art import logo
+# from clear_sys import clear
 
 
 #HINT: You can call clear() to clear the output in the console.
 clear()
-# art.logo()
+# logo()
 
 print("Welcome to the secret auction program \n")
 
