@@ -18,3 +18,5 @@ Day 8 - Functions parameters, Caesar Cipher
 
 Day 9 - Dictionary, Silent Auction
 
+Day 10 - Functions with outputs, Docstrings, Calculator
+
