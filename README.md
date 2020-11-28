@@ -22,3 +22,4 @@ Day 10 - Functions with outputs, Docstrings, Calculator
 
 Day 11 - Blackjack project
 
+Day 12 - Local Global Variables, Guess a number game
