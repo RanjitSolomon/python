@@ -25,3 +25,6 @@ Day 11 - Blackjack project
 Day 12 - Local Global Variables, Guess a number game
 
 Day 13 - Debugging - http://www.pythontutor.com/visualize.html#mode=edit
+
+Day 14 - Higher Lower Game - Dictionary
+
