@@ -29,3 +29,6 @@ Day 13 - Debugging - http://www.pythontutor.com/visualize.html#mode=edit
 Day 14 - Higher Lower Game - Dictionary
 
 Day 15 - PyCharm, Coffee Machine
+
+Day 16 - OOP - Coffee Machine 
+
