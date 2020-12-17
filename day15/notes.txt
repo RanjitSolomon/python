@@ -1,0 +1,5 @@
+                water       Coffee      Milk        Price
+Espresso        50ml        18g                     1.50
+Latte           200ml       24g         150ml       2.50
+Cappuccino      250ml       24g         100ml       3.00
+
