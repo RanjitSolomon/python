@@ -32,3 +32,6 @@ Day 15 - PyCharm, Coffee Machine
 
 Day 16 - OOP - Coffee Machine 
 
+Day 17 - OOP - Quiz, opentdb.com
+
+
