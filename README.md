@@ -34,4 +34,6 @@ Day 16 - OOP - Coffee Machine
 
 Day 17 - OOP - Quiz, opentdb.com
 
+Day 18 - Turtle - GUI - Draw  color dots
 
+Day 19 - Keyboard keys, Color dot art, Turtle race
