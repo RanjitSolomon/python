@@ -40,3 +40,5 @@ Day 19 - Keyboard keys, Color dot art, Turtle race
 
 Day 20 - Nokia Snake game - OOP
 
+Day 21 - Nokia Snake Game part 2, Inheritance, list slice
+
