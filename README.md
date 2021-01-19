@@ -42,3 +42,6 @@ Day 20 - Nokia Snake game - OOP
 
 Day 21 - Nokia Snake Game part 2, Inheritance, list slice
 
+Day 22 - Pong game
+
+Day 23 - Turtle Crossing Game
